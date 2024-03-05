@@ -1,14 +1,14 @@
 ﻿# smart_note
 
  1. 项目名称：smart_note
- 2. 小组的GitHub地址：
+ 2. 小组的GitHub地址：[DongXueIian/smart_note: smart note (github.com)](https://github.com/DongXueIian/smart_note)
  3. 小组成员、分工及GitHub主页：
- 4. 程序功能描述：
-
-|姓名| 学号 | GitHub | 分工 |
+ 
+ |姓名| 学号 | GitHub | 分工 |
 |--|--|--|--|
 | 王劭锟 | 2112190314 | [DongXueIian (東雪蓮official) (github.com)](https://github.com/DongXueIian) | 后端 |
 | 严熠程 | 2112190309 | [hdyr · GitHub](https://github.com/hdyr) | 前端 |
+ 4. 程序功能描述：
 
 | 2个主要功能 |  |
 |--|--|
@@ -23,4 +23,16 @@
  - 笔记内容可以从md、word文件导入
 
  5. 思维导图
+ 
+ # smart_note
+## 笔记模块
+### 笔记内容的增删改查
+### 笔记内容的修改记录查看
+### 笔记内容的导入
+## 大模型对话模块
+### 模型接口调用
+### 笔记内容的读取
+## 用户模块
+### 用户注册登录
+### 个人信息修改
  ![输入图片说明](/imgs/2024-03-05/6yCLCu70v5OZRjDr.png)
